@@ -1,0 +1,8 @@
+This coordinates list is derived from resting-state fMRI connectivity patterns. Boundaries of these regions are given by cortical regions with highly homogeneous intraregional patterns, while separate regions show non-homogeneous activations.
+
+
+References:
+  Gordon, E. M., T. O. Laumann, B. Adeyemo, J. F. Huckins, W. M. Kelley, and S. E. Petersen. “Generation and Evaluation of a Cortical Area Parcellation from Resting-State Correlations.” Cerebral Cortex (October 14, 2014). doi:10.1093/cercor/bhu239.
+
+Compiled by Simeon Wong, Ben Dunkley
+2015 Sept 11

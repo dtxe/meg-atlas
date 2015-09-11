@@ -1,0 +1,15 @@
+This node list contains the centroid of each region in the Automated Anatomical Labelling atlas, plus known Default Mode Network regions.
+This list is ideal for source-based resting state MEG analysis.
+
+Notes:
+  - Nodes from de Pasquale were mirrored onto the opposite hemisphere where given in only one hemisphere.
+  
+References:
+  De Pasquale, Francesco, Stefania Della Penna, Abraham Z. Snyder, Laura Marzetti, Vittorio Pizzella, Gian Luca Romani, and Maurizio Corbetta. “A Cortical Core for Dynamic Integration of Functional Networks in the Resting Human Brain.” Neuron 74, no. 4 (May 2012): 753–764. doi:10.1016/j.neuron.2012.03.031.
+  
+  Tzourio-Mazoyer, N., B. Landeau, D. Papathanassiou, F. Crivello, O. Etard, N. Delcroix, B. Mazoyer, and M. Joliot. “Automated Anatomical Labeling of Activations in SPM Using a Macroscopic Anatomical Parcellation of the MNI MRI Single-Subject Brain.” NeuroImage 15, no. 1 (January 2002): 273–289. doi:10.1006/nimg.2001.0978.
+  
+  
+
+Compiled by Simeon Wong, Ben Dunkley, Ben Morgan
+2015 Sept 10
