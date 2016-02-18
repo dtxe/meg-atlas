@@ -1,0 +1,10 @@
+This node list contains the centroid of each region in the Automated Anatomical Labelling atlas, including cortical and subcortical regions, excluding the cerebellar regions. (This list contains the first 90 AAL regions)
+This list is ideal for source-based resting state MEG analysis.
+  
+References:
+  Tzourio-Mazoyer, N., B. Landeau, D. Papathanassiou, F. Crivello, O. Etard, N. Delcroix, B. Mazoyer, and M. Joliot. “Automated Anatomical Labeling of Activations in SPM Using a Macroscopic Anatomical Parcellation of the MNI MRI Single-Subject Brain.” NeuroImage 15, no. 1 (January 2002): 273–289. doi:10.1006/nimg.2001.0978.
+  
+  
+
+Compiled by Simeon Wong
+2015 Nov 3
