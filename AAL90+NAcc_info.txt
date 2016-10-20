@@ -1,0 +1,13 @@
+This node list contains a subset of nodes from the AAL plus the bilateral Nucleus Accumbens.
+
+The subset of nodes from the Automated Anatomical Labelling atlas includes cortical and subcortical regions, excluding the cerebellar regions. (the first 90 AAL regions)
+
+This list was designed for the music study for Carina Freitas.
+  
+References:
+  Tzourio-Mazoyer, N., B. Landeau, D. Papathanassiou, F. Crivello, O. Etard, N. Delcroix, B. Mazoyer, and M. Joliot. “Automated Anatomical Labeling of Activations in SPM Using a Macroscopic Anatomical Parcellation of the MNI MRI Single-Subject Brain.” NeuroImage 15, no. 1 (January 2002): 273–289. doi:10.1006/nimg.2001.0978.
+  
+  
+
+Compiled by Simeon Wong
+2016 Oct 20
