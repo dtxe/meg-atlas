@@ -9,6 +9,10 @@ References:
   
   Tzourio-Mazoyer, N., B. Landeau, D. Papathanassiou, F. Crivello, O. Etard, N. Delcroix, B. Mazoyer, and M. Joliot. “Automated Anatomical Labeling of Activations in SPM Using a Macroscopic Anatomical Parcellation of the MNI MRI Single-Subject Brain.” NeuroImage 15, no. 1 (January 2002): 273–289. doi:10.1006/nimg.2001.0978.
   
+  Loss of Intranetwork and Internetwork Resting State Functional Connections with Alzheimer's Disease Progression
+  Mathew R. Brier, Jewell B. Thomas, Abraham Z. Snyder, Tammie L. Benzinger, DongyangZhang, Marcus E. Raichle, David M. Holtzman, John C. Morris, Beau M. Ances
+  Journal of Neuroscience 27 June 2012, 32 (26) 8890-8899; DOI: 10.1523/JNEUROSCI.5698-11.2012
+
   
 
 Compiled by Simeon Wong, Ben Dunkley, Ben Morgan
